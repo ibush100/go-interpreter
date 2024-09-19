@@ -7,6 +7,7 @@ import (
 	"os/user"
 )
 
+// page 52
 func main() {
 
 	user, err := user.Current()
