@@ -7,7 +7,7 @@ import (
 	"os/user"
 )
 
-// page 52
+// page 71
 func main() {
 
 	user, err := user.Current()
